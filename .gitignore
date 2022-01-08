@@ -1,0 +1,24 @@
+# ignore everything
+*
+
+# whitelist
+!/.gitignore
+!/Makefile
+!/author
+
+# whitelist subdirectories
+!*/
+
+# whitelist specific files in srcs
+!/srcs/*.c
+
+# whitelist specific files in project's folder
+!/includes/*.h
+
+# whitelist specific files in libft
+!/libft/*.c
+!/libft/Makefile
+!/libft/includes/libft.h
+
+# whitelist specific files in eval_tests
+!/eval_tests/*.txt
