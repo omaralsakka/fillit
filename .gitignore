@@ -21,4 +21,4 @@
 !/libft/includes/libft.h
 
 # whitelist specific files in eval_tests
-!/eval_tests/*.txt
+!/tet_pieces/*.txt
