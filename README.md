@@ -19,7 +19,7 @@ This project is meant to solve at most 26 pieces.
 
 ## :arrow_forward: Run:
 
-```./fillit ./tet_pieces./test1.txt```
+```./fillit ./tet_pieces/test1.txt```
 
 ## :no_entry: Errors:
 
